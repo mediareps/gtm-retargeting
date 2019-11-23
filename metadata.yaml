@@ -1,5 +1,5 @@
 homepage: "https://www.traffichaus.com"
 documentation: "https://github.com/mediareps/gtm-retargeting"
 versions:
-  - sha: 2eb3a936528c7d65b205849049e798c9d3b3978a
-    changeNotes: Initial release.
+  - sha: 17beefa610a989e3977aac7d3db8a7afc9fc17e2
+    changeNotes: Another update to debug why it's not submitting
