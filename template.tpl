@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Traffichaus Retargeting Pixel",
-  "categories": ["REMARKETING", "ADVERTISING"],
+  "categories": ["REMARKETING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
