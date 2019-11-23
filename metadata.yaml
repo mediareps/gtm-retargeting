@@ -1,5 +1,5 @@
 homepage: "https://www.traffichaus.com"
 documentation: "https://github.com/mediareps/gtm-retargeting"
 versions:
-  - sha: 4a8f73981364adb9e2a61b76484dba19b3088325
-    changeNotes: Change the icon
+  - sha: f4dc8cff0f50ee762da53eda75c98aea7f50673e
+    changeNotes: First Version
